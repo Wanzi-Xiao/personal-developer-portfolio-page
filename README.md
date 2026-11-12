@@ -36,3 +36,5 @@ Create `.github/workflows/pipeline.yml` in Part 2 (the folder does not exist yet
 Your pipeline runs `htmlhint` and `scripts/validate.py` on every push and pull
 request to `main`, and then deploys the page to GitHub Pages (only on a push to
 `main`).
+
+[![Portfolio Pipeline](https://github.com/Wanzi-Xiao/personal-developer-portfolio-page/actions/workflows/pipeline.yml/badge.svg)](https://github.com/Wanzi-Xiao/personal-developer-portfolio-page/actions/workflows/pipeline.yml)
